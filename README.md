@@ -1,4 +1,4 @@
 # firstProgram
 this is my first repo.
 <br>
-Author- Harshit choudhary
+Author- Harshit kumar choudhary(mann)
