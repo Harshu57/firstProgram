@@ -1,3 +1,3 @@
 # firstProgram
 this is my first repo.
-hey 
+Author- Harshit choudhary
